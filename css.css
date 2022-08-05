@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 90px;
+    color: black;
+    margin: 0;
+    padding-top: 60px;
+    font-family: 'Sacramento', cursive;
+}
+
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+span{
+    color: blue;
+    text-decoration: underline;
+}
+
+.paragraph {
+   background-color: #CEE5D0; 
+}
+
+.img1 {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    right: 300px;
+    top: 30px;
+}
+
+.cloud1 {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+
+.cloud3 {
+    position: absolute;
+    right: 200px;
+    top: 300px;
+}
+
+.coding {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    margin-top: auto;
+}
+
+.Photography {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    margin-right: 30px;
+    margin-top: auto;
+}
+
+.singer {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    margin-top: auto;
+}
+
+.coding-img {
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+
+.Photography-img {
+    width: 50%;
+    float: right;
+}
+
+.singer-img {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+    margin-top: auto;
+}
